@@ -1,29 +1,31 @@
 # openzenta-org
-OpenZenta – Guides, Vergleiche &amp; Ressourcen für digitale Privatsphäre
+# OpenZenta – Guides, Comparisons & Resources for Digital Privacy
 
-OpenZenta ist eine unabhängige Plattform rund um Datenschutz und Online-Sicherheit.
-Der Fokus liegt auf leicht verständlichen, aber technisch fundierten Anleitungen für
-Nutzer, die ihre digitale Kommunikation besser schützen möchten.
+OpenZenta is an independent platform focused on privacy, secure communication,
+and practical online security. The goal is to provide clear, technically accurate
+guides for users who want to protect their digital lives without getting lost in
+complex explanations.
 
-Ein zentraler Schwerpunkt der Website ist der umfassende Vergleich
-**Proton Mail vs. Tuta Mail**. Beide Anbieter gehören zu den bekanntesten
-Ende-zu-Ende-verschlüsselten E-Mail-Diensten, unterscheiden sich jedoch in
-Architektur, Funktionsumfang, Preisstruktur und ihrer langfristigen Ausrichtung.
-Die Analyse auf OpenZenta betrachtet unter anderem:
+One of the core topics on the website is the in-depth comparison
+**Proton Mail vs. Tuta Mail**. Both services are leading end-to-end encrypted
+email providers, yet they differ significantly in architecture, features,
+metadata handling, pricing, and long-term philosophy. The analysis on OpenZenta
+covers aspects such as:
 
-- Verschlüsselungsmodelle und Schlüsselverwaltung  
-- Metadaten-Handling und Zero-Knowledge-Ansätze  
-- Sicherheitsarchitektur  
-- Unternehmenssitz und rechtlicher Rahmen  
-- Nutzerfreundlichkeit und App-Design  
-- Preisgestaltung und Speicherpläne  
-- Alltagstauglichkeit für Privatanwender und Teams  
+- encryption models and key management  
+- metadata exposure and zero-knowledge approaches  
+- security architecture  
+- company location and legal jurisdiction  
+- usability, interface and app quality  
+- pricing, storage plans and long-term value  
+- everyday practicality for individuals and teams  
 
-Ziel der Seite ist es, eine faire, transparente und alltagsnahe Bewertung zu bieten,
-damit Nutzer schneller entscheiden können, welcher Dienst besser zu ihren
-Anforderungen passt – Sicherheit, Komfort oder ein ausgewogenes Verhältnis aus beidem.
+The aim is to give readers a transparent and balanced assessment so they can
+quickly understand which provider best fits their needs — whether they prioritize
+maximum security, convenience, or a balanced mix of both.
 
-Auf OpenZenta findest du außerdem zusätzliche Ressourcen zu Privacy-Tools,
-verschlüsselten Diensten und sicheren digitalen Workflows.
+OpenZenta also offers additional resources on privacy tools, encrypted services,
+and secure digital workflows to help users build a safer and more controlled
+online environment.
 
-➡️ **Zur Website:** https://openzenta.org
+➡️ **Website:** https://openzenta.org
